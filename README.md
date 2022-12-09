@@ -8,15 +8,15 @@ Our study focuses on Land Use Classification by: <br>
 
 This repository contains the part of CNN implementation. Transfer learning implementation for our project is done in this [repository](https://github.com/tisserapac/ML_Project_2022).
 
-## Dataset: 
+## Dataset
 https://github.com/phelber/EuroSAT
 
-## Authors:
+## Authors
 - [Md. Sakib Bin Alam](https://github.com/SakibBinAlam)
 - [Anjana Tissera](https://github.com/tisserapac)
 - [Aiman Lameesa](https://github.com/aimanlameesa)
 
-## References:
+## References
 [1]  S. Basu, S. Ganguly, S. Mukhopadhyay, R. DiBiano, M. Karki, and R. Nemani, “Deepsat: a learning framework for satellite 
       imagery,” in Proceedings of the 23rd SIGSPATIAL international conference on advances in geographic information systems, 2015, 
       pp. 1–10.
