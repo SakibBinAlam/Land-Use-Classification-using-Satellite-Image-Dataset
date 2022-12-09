@@ -8,7 +8,8 @@ Our study focuses on Land Use Classification by: <br>
 
 This repository contains the part of CNN implementation. Transfer learning implementation for our project is done in this [repository](https://github.com/tisserapac/ML_Project_2022)
 
-## Dataset: https://github.com/phelber/EuroSAT
+## Dataset: 
+https://github.com/phelber/EuroSAT
 
 ## Authors:
 - [Md. Sakib Bin Alam](https://github.com/SakibBinAlam)
