@@ -1,5 +1,5 @@
 # Land-Use-Classification-using-Satellite-Image-Dataset <br>
-This project is a part of "AT82.03 Machine Learning" course in Fall 2022 semester. <br>
+This project is a part of "AT82.03 Machine Learning" course in Fall 2022 semester at Asian Institute of Technology (AIT). <br>
 
 Our study focuses on Land Use Classification by: <br>
 - Training, custom-built CNNs from scratch <br>
