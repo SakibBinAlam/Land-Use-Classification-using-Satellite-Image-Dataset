@@ -6,7 +6,7 @@ Our study focuses on Land Use Classification by: <br>
 - Applying  transfer learning to fine-tune pre-trained networks such as AlexNet and ResNet for Land Use Classification <br>
 - Extensive analysis, such as, number of misclassified images per label, prediction accuracy per label, showing misclassified images for each label, etc.
 
-This repository contains the part of CNN implementation. Transfer learning implementation for our project is done in this [repository](https://github.com/tisserapac/ML_Project_2022).
+This repository contains the part of CNN implementation. Transfer learning implementation for our project is not uploaded here.
 
 ## Dataset
 https://github.com/phelber/EuroSAT
