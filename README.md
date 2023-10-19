@@ -14,7 +14,7 @@ https://github.com/phelber/EuroSAT
 
 ## Authors
 - [Md. Sakib Bin Alam](https://github.com/SakibBinAlam)
-- Anjana Tissera
+- Anjana
 - [Aiman Lameesa](https://github.com/aimanlameesa)
 
 ## References
