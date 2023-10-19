@@ -1,3 +1,4 @@
+(Due to confidential issue, whole project is not uploaded now)
 # Land-Use-Classification-using-Satellite-Image-Dataset <br>
 This project is a part of "AT82.03 Machine Learning" course in Fall 2022 semester at Asian Institute of Technology (AIT). <br>
 
@@ -13,7 +14,7 @@ https://github.com/phelber/EuroSAT
 
 ## Authors
 - [Md. Sakib Bin Alam](https://github.com/SakibBinAlam)
-- [Anjana Tissera](https://github.com/tisserapac)
+- Anjana Tissera
 - [Aiman Lameesa](https://github.com/aimanlameesa)
 
 ## References
