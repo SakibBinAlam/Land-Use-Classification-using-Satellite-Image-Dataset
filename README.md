@@ -1,4 +1,3 @@
-Partial code for the paper 
 # Enhancing land use and land cover classification through comparative analysis of deep learning architectures <br>
 This mansucript is curreenlty under review in the journal Ecological Informatics. <br>
 
