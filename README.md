@@ -1,12 +1,8 @@
 # Enhancing land use and land cover classification through comparative analysis of deep learning architectures <br>
-This mansucript is curreenlty under review in the journal Ecological Informatics. <br>
-
 Our study focuses on Land Use Classification by: <br>
 - Training, custom-built CNNs from scratch <br>
 - Applying  transfer learning to fine-tune pre-trained networks such as AlexNet and ResNet for Land Use Classification <br>
 - Extensive analysis, such as, number of misclassified images per label, prediction accuracy per label, showing misclassified images for each label, etc.
-
-This repository contains the part of CNN implementation. Transfer learning implementation for our project is not uploaded yet.
 
 ## Authors
 - [Md. Sakib Bin Alam](https://github.com/SakibBinAlam)
